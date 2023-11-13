@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Parkson Tao</h1>
-<h3 align="center">A experience fullstack developer from Cameroon</h3>
+<h3 align="center">An experience fullstack developer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkson-tano&label=Profile%20views&color=0e75b6&style=flat" alt="parkson-tano" /> </p>
 
@@ -7,9 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/parksondaniel" target="blank"><img src="https://img.shields.io/twitter/follow/parksondaniel?logo=twitter&style=for-the-badge" alt="parksondaniel" /></a> </p>
 
-- 🔭 I’m currently working on [Tantorial Backend](tantorial.com)
+- 🔭 I’m currently working on [Tantorial](tantorial.com)
 
 - 🌱 I’m currently learning **Next Js, ML and AI**
+
+- 👯 I’m looking to collaborate on **on any open source project**
+
+- 🤝 I’m looking for help with **geeting a full time devloper job**
+
+- 👨‍💻 All of my projects are available at [https://parksontano.com](https://parksontano.com)
+
+- 📝 I regularly write articles on [https://dev.to/parksontano](https://dev.to/parksontano)
+
+- 💬 Ask me about **react, django, python, javascript**
+
+- 📫 How to reach me **tanoparksonsilencer@gmail.com**
+
+- 📄 Know about my experiences [https://parksontano.com/resume](https://parksontano.com/resume)
+
+- ⚡ Fun fact **I like to code and debug**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
