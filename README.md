@@ -7,17 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/parksondaniel" target="blank"><img src="https://img.shields.io/twitter/follow/parksondaniel?logo=twitter&style=for-the-badge" alt="parksondaniel" /></a> </p>
 
-- 🔭 I’m currently working on [Tantorial](tantorial.com)
-
-- 🌱 I’m currently learning **Next Js, ML and AI**
-
-- 👯 I’m looking to collaborate on **on any open source project**
-
-- 🤝 I’m looking for help with **geeting a full time devloper job**
-
-- 👨‍💻 All of my projects are available at [https://parksontano.com](https://parksontano.com)
-
-- 📝 I regularly write articles on [https://dev.to/parksontano](https://dev.to/parksontano)
 
 - 💬 Ask me about **react, django, python, javascript**
 
